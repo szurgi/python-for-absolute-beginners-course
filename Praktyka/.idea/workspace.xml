@@ -24,13 +24,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="936728e5-2110-4f61-81f6-ea9204db1a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Praktyka.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guessinggame.py" afterDir="false" />
+    <list default="true" id="936728e5-2110-4f61-81f6-ea9204db1a3b" name="Default Changelist" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guessinggame.py" beforeDir="false" afterPath="$PROJECT_DIR$/guessinggame.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +92,14 @@
       <option name="presentableId" value="Default" />
       <updated>1593980286097</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1594024614349</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594024614349</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,5 +112,27 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="839" height="266" key="GridCell.Tab.0.bottom" timestamp="1594026081283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="839" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594026081283" />
+    <state width="839" height="266" key="GridCell.Tab.0.center" timestamp="1594026081283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="839" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594026081283" />
+    <state width="839" height="266" key="GridCell.Tab.0.left" timestamp="1594026081283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="839" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594026081283" />
+    <state width="839" height="266" key="GridCell.Tab.0.right" timestamp="1594026081283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="839" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594026081283" />
   </component>
 </project>
